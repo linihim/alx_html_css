@@ -291,3 +291,38 @@ button {
 .membership-item h3 {
     margin: 10px 0;
 }
+
+.faq {
+    padding: 50px 0;
+    background-color: white;
+}
+
+.faq h2 {
+    font-size: 32px;
+    color: rgb(7,22,41);
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.faq-content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.faq-column {
+    width: 45%;
+}
+
+.faq-item h3 {
+    color: rgb(7,22,41);
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.faq-item p {
+    color: rgba(7, 22, 41, 0.5);
+    font-size: 14px;
+    margin-bottom: 30px;
+}
