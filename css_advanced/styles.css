@@ -260,3 +260,34 @@ button {
     float: right;
 }
 
+.membership {
+    background-color: rgb(7,22,41);
+    padding: 50px 0;
+    text-align: center;
+    color: white;
+}
+
+.membership h2 {
+    font-size: 32px;
+    margin-bottom: 50px;
+}
+
+.membership h2 span {
+    color: rgb(194, 113, 255);
+}
+
+.membership-items {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1000px;
+    margin: 0 auto 50px;
+}
+
+.membership-item img {
+    width: 50px;
+    height: 50px;
+}
+
+.membership-item h3 {
+    margin: 10px 0;
+}
