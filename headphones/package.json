@@ -1,0 +1,16 @@
+{
+  "name": "headphones",
+  "version": "1.0.0",
+  "description": "RESPONSIVE WEB DESIGN PROJECT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "node-sass style.scss 1-style.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
